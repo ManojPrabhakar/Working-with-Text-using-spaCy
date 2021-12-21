@@ -19,3 +19,4 @@ The [Colab notebook](https://colab.research.google.com/drive/1g386raiz80Cu6Wi0wz
 *   https://spacy.pythonhumanities.com/intro.html
 *   https://www.analyticsvidhya.com/blog/2020/03/spacy-tutorial-learn-natural-language-processing/
 *   https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/
+*   https://spacy.io/universe/project/spacy-textblob
