@@ -2,7 +2,7 @@
 This was a workshop jointly done with [Prof. Dr. Gerard de Melo](http://gerard.demelo.org/) as part of the [EnvisionBootcamp2021 : Hands-on Introduction to Multimodal (Signal)
 Analysis Techniques To gain Qualitative and Quantitative Understanding of Team Dynamics](https://www.centerforadvanceddesignstudies.org/envision) at the Hasso Plattner Institute, Potsdam.
 
-The [colab notebook](https://colab.research.google.com/drive/1g386raiz80Cu6Wi0wzwUhkHLwC4LeKxb#scrollTo=20Xp5m5CxTVF) used for the workshop contains the following:
+The [Colab notebook](https://colab.research.google.com/drive/1g386raiz80Cu6Wi0wzwUhkHLwC4LeKxb#scrollTo=20Xp5m5CxTVF) used for the workshop contains the following:
 
 ## Contents
 * How to install spaCy
